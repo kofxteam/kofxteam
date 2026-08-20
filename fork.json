@@ -1,5 +1,5 @@
 {
-  "totalSenders": 2,
+  "totalSenders": 3,
   "senders": [
     {
       "id": "7599415195",
@@ -10,6 +10,11 @@
       "id": "1087968824",
       "name": "GroupAnonymousBot",
       "addedAt": "2026-08-20T09:05:16.198Z"
+    },
+    {
+      "id": "7955897819",
+      "name": "Bozxl1",
+      "addedAt": "2026-08-20T09:07:54.735Z"
     }
   ]
 }
