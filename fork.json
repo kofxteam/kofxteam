@@ -1,5 +1,5 @@
 {
-  "totalSenders": 6,
+  "totalSenders": 7,
   "senders": [
     {
       "id": "7599415195",
@@ -30,6 +30,11 @@
       "id": "8934086969",
       "name": "ellsaja0",
       "addedAt": "2026-08-20T10:58:14.215Z"
+    },
+    {
+      "id": "8663119765",
+      "name": "Kiko",
+      "addedAt": "2026-08-20T15:46:37.303Z"
     }
   ]
 }
