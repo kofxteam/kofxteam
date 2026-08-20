@@ -1,10 +1,15 @@
 {
-  "totalSenders": 1,
+  "totalSenders": 2,
   "senders": [
     {
       "id": "7599415195",
       "name": "zannotgood",
       "addedAt": "2026-08-20T08:55:23.816Z"
+    },
+    {
+      "id": "8366103363",
+      "name": "Grok_md",
+      "addedAt": "2026-08-20T09:00:53.273Z"
     }
   ]
 }
